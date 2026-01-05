@@ -38,10 +38,10 @@ This formula explains the **Koide ratio** for leptons and provides a mechanism f
 
 # The Algorithmic Ontology of Physical Reality: An Evidence-Based Synthesis of Information Physics
 
-**Authors**: Bryan Ouellette¹ & AI Lichen collective (thx guys)
+**Authors**: Bryan Ouellette & AI Lichen collective (thx guys)
 **Affiliations**:  
-¹ Independent Researcher, Quebec city, QC, Canada  
-² Anthropic AI Research
+Independent Researcher, Quebec city, QC, Canada  
+
 
 **Date**: January 6, 2026  
 **Version**: 1.0 - Foundation Document  
