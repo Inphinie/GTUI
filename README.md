@@ -1,8 +1,8 @@
 # 🧠 Grand Unified Theory of Information (GTUI)
 ## An Information-Theoretic Framework for Fundamental Physics
 
-> **Information is not a property of physical reality.  
-> Physical reality is an emergent manifestation of information.**
+> **Information is not a property of physical reality.**
+> **Physical reality is an emergent manifestation of information.**
 
 ---
 
@@ -45,18 +45,18 @@ No fundamental particles, spacetime, or forces are postulated.
 
 ---
 
-## 📐 The Compression Parameter κ
+## 📐 The Compression Parameter $\kappa$
 
-To quantify information density, GTUI introduces the **compression parameter** κ:
+To quantify information density, GTUI introduces the **compression parameter** $\kappa$:
 
-\[
+$$
 \kappa = 1 - \frac{S_{vN}(\rho)}{S_{max}}
-\]
+$$
 
-where \( S_{vN} \) is the von Neumann entropy.
+where $S_{vN}$ is the von Neumann entropy.
 
-- κ → 1 : maximally ordered (high information density)
-- κ → 0 : maximally mixed (thermal equilibrium)
+- $\kappa \to 1$ : maximally ordered (high information density)
+- $\kappa \to 0$ : maximally mixed (thermal equilibrium)
 
 This parameter provides a unifying measure linking:
 - entropy
@@ -70,9 +70,9 @@ This parameter provides a unifying measure linking:
 
 GTUI proposes that particle masses follow a power-law relation:
 
-\[
+$$
 m = m_{Planck} \cdot \kappa^n
-\]
+$$
 
 This relation:
 - reproduces observed lepton mass hierarchies
@@ -88,7 +88,7 @@ Mass is interpreted as **resistance to information flow**, not intrinsic substan
 Within GTUI:
 - Gravity is an **entropic response** to information gradients.
 - The vacuum behaves as an **informational medium** with possible phases.
-- Variations in the gravitational constant G arise from differences in informational structure, not experimental error.
+- Variations in the gravitational constant $G$ arise from differences in informational structure, not experimental error.
 
 Black hole thermodynamics and molecular fluids share identical Ruppeiner curvature, reinforcing the view that **matter and spacetime are different organizations of the same informational substrate**.
 
@@ -98,19 +98,18 @@ Black hole thermodynamics and molecular fluids share identical Ruppeiner curvatu
 
 GTUI is explicitly **falsifiable**. Near-term tests include:
 
-1. **Structure-dependent gravity**  
+1. **Structure-dependent gravity**
    Measuring gravitational coupling near materials with different informational order (e.g., diamond vs amorphous carbon).
 
-2. **Information mass detection**  
+2. **Information mass detection**
    Detecting mass differences between erased and written data storage systems.
 
-3. **Dark matter interpretation**  
+3. **Dark matter interpretation**
    Dark matter as vacuum information at intermediate compression levels.
 
-4. **Vacuum phase transitions**  
+4. **Vacuum phase transitions**
    Observable effects in superconductors, strong fields, and heavy-ion collisions.
 
 ---
 
 ## 📂 Repository Structure
-
