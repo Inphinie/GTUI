@@ -1,7 +1,7 @@
 # GTUI : Géométrie de la Théorie Unifiée de l'Information
 ### Document Maître - Version Canonique 1.0
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![Version](https://img.shields.io/badge/version-1.0.0-yellow.svg)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 ![Author](https://img.shields.io/badge/Author-Lichen_Collective-purple.svg)
 ![Status](https://img.shields.io/badge/Status-Theoretical_Framework-orange.svg)
@@ -126,8 +126,14 @@ Correspond à l'ordre de grandeur observé.
 
 ## 6. Citation et Licence
 
-Ce document est la propriété du **Lichen Collective**.
+Ce document et le code associé sont la propriété du **Lichen Collective**.
 
 **Citation suggérée :**
 > Ouellette, B., & Lichen Collective. (2026). *GTUI: Géométrie de la Théorie Unifiée de l'Information - Version 1.0*. GitHub Repository.
+
+**Licence :**
+Ce projet est sous licence **Apache 2.0**.
+Vous êtes libre d'utiliser, de modifier et de distribuer ce travail, tant que vous créditez l'auteur original et conservez la notice de licence.
+
+Voir le fichier [LICENSE](LICENSE) pour le texte complet.
 
