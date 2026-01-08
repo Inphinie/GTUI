@@ -131,4 +131,4 @@ Ce document est la propriété du **Lichen Collective**.
 **Citation suggérée :**
 > Ouellette, B., & Lichen Collective. (2026). *GTUI: Géométrie de la Théorie Unifiée de l'Information - Version 1.0*. GitHub Repository.
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Ce travail est mis à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Licence Apache 2.0
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="License apache 2.0" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Ce travail est mis à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Licence Apache 2.0
